@@ -1,0 +1,11 @@
+# Rust 编译产物、缓存
+target/
+Cargo.lock
+
+# 系统垃圾文件
+*.log
+.DS_Store
+Thumbs.db
+
+# 程序自动生成的索引文件
+index.json
